@@ -26,7 +26,7 @@ All the plots with default values can be found [here](https://drive.google.com/f
 
 ## Screenshots
 
-![App Screenshot](https://drive.google.com/file/d/1zQ-gXdjJ8XT75Fs1u155UhDoqPtV-b-p/view?usp=sharing)
+![App Screenshot](Screenshot from 2021-11-12 23-22-32.png ? raw=true)
 
 
 ## Team
