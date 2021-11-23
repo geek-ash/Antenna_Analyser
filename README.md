@@ -21,6 +21,12 @@ A MATLAB App in which various characteristics like Radiation pattern, Impedance 
 - Electric and Magnetic Fields
 - Impedance Plots
 - Radiation Efficiency
+All the plots with default values can be found [here](https://drive.google.com/file/d/11QP35GiQJoWTvk9brPBc-FaFTQho1vDH/view?usp=sharing)
+
+
+## Screenshots
+
+![App Screenshot](https://drive.google.com/file/d/1zQ-gXdjJ8XT75Fs1u155UhDoqPtV-b-p/view?usp=sharing)
 
 
 ## Team
